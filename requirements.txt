@@ -1,1 +1,10 @@
-
+streanlit
+python-dotenv
+langchain
+langchain-groq
+lanchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+pypdf
+sentence-transformers
